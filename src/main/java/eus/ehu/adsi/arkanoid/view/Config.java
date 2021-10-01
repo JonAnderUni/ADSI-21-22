@@ -24,6 +24,7 @@ public abstract class Config {
 
 	public static final double FT_SLICE = 1.0;
 	public static final double FT_STEP = 1.0;
+	
 
 	public static final String FONT = "Courier New";
 	public static final Color FONT_COLOR = Color.lightGray;
